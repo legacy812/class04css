@@ -1,0 +1,23 @@
+header h1 {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+section 1 {
+  float: left;
+}
+
+section1 p {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+    margin-top: auto;
+    margin-left: auto;
+  }
+}
+
+section 2 {
+  float: right;
+}
